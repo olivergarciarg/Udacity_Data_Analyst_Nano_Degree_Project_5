@@ -16,12 +16,15 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 
 <style type="text/css">
+html {
+height: '70%';
+}
 //div.output_wrapper {
 //  margin-top: 0px;
 //}
 .input_hidden {
   display: none;
-//  margin-top: 5px;
+//  margin-top: 0px;
 }
 </style>
 
